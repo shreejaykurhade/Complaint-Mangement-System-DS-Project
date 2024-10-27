@@ -1,0 +1,4 @@
+To compile the code Type this in your code in your Terminal which Compiles main.c, stack.c and queue.c in main.exe
+~ "gcc main.c stack.c queue.c -o main.exe"
+
+To run the code Type "./main.exe" in your Termninal 
